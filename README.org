@@ -1,2 +1,2 @@
-#+TITLE: Just an average GNU/Linux and free software enjoyer
+#+TITLE: Just an average GNU/Linux and free (as in freedom!) software enjoyer
 #+AUTHOR: CToID
