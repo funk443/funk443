@@ -1,5 +1,5 @@
 #+TITLE: Just an average GNU/Linux and free (as in freedom!) software enjoyer
 #+AUTHOR: CToID
 
-* Allow me to interject for a moment
+*Allow me to interject for a moment*
 [[./images/interject.jpg]]
