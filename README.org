@@ -1,4 +1,3 @@
-#+TITLE: Just an average GNU/Linux and free (as in freedom!) software enjoyer
 #+AUTHOR: CToID
 
 *Please allow me to interject for a moment*\\
