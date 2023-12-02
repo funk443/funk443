@@ -1,4 +1,5 @@
 #+AUTHOR: CToID
 
-*Please allow me to interject for a moment*\\
+*Please allow me to interject for a moment*
+
 [[./images/interject.jpg]]
