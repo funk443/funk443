@@ -1,5 +1,7 @@
-**Please allow me to interject for a moment**
+_Please allow me to interject for a moment_
 
 ![rms](./images/interject.jpg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=funk443&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+Hello, I am CToID, but you can simply call me ID.
