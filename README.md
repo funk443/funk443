@@ -1,6 +1,8 @@
-_Please allow me to interject for a moment_
+*Please allow me to interject for a moment*
 
-![rms](./images/interject.jpg)
+![rms]
+
+[rms]: <./images/interject.jpg>
 
 ---
 
