@@ -1,9 +1,9 @@
-*README.txt*                                                       ID's README
+*README.txt*                                                         ID's README
 
 Hi, you can call me ID for short.
 
-_Please allow me to interject for a moment._ "./Images/Interject.jpg"
->
+_Please allow me to interject for a moment._[1]
+
     What you’re referring to as Linux, is in fact, GNU/Linux, or as I’ve
     recently taken to calling it, GNU plus Linux. Linux is not an operating
     system unto itself, but rather another free component of a fully functioning
@@ -23,4 +23,5 @@ _Please allow me to interject for a moment._ "./Images/Interject.jpg"
     Linux is normally used in combination with the GNU operating system: the
     whole system is basically GNU with Linux added, or GNU/Linux. All the
     so-called “Linux” distributions are really distributions of GNU/Linux.
-<
+
+[1]: ./Images/Interject.jpg
