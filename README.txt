@@ -1,6 +1,8 @@
 *README.txt*                                                       ID's README
 
-_Please allow me to interject for a moment_ "./Images/Interject.jpg"
+Hi, you can call me ID for short.
+
+_Please allow me to interject for a moment._ "./Images/Interject.jpg"
 >
     What you’re referring to as Linux, is in fact, GNU/Linux, or as I’ve
     recently taken to calling it, GNU plus Linux. Linux is not an operating
@@ -22,6 +24,4 @@ _Please allow me to interject for a moment_ "./Images/Interject.jpg"
     whole system is basically GNU with Linux added, or GNU/Linux. All the
     so-called “Linux” distributions are really distributions of GNU/Linux.
 <
-Hi, you can call me ID for short.
-
 vim:tw=78:ts=4:sw=0:sts=0:et:ft=help:norl:
