@@ -24,4 +24,3 @@ _Please allow me to interject for a moment._ "./Images/Interject.jpg"
     whole system is basically GNU with Linux added, or GNU/Linux. All the
     so-called “Linux” distributions are really distributions of GNU/Linux.
 <
-vim:tw=78:ts=4:sw=0:sts=0:et:ft=help:norl:
